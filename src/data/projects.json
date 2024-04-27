@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to know about models.",
+    "skills": ["React", "Express", "Node","Mysql","s3bucket aws","gcp"],
+    "demo": "https://worldmodelhunt.com/",
+    "source": "https://www.github.comhttps://github.com/DIFMLucknow/revamp_wmh_us"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to listing- models.",
+    "skills": ["React", "Express", "Node", "Mongodb","Mysql"],
+    
+    "source": "https://github.com/aftabmehtab1234567/model-listing"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made for real time chatapplication.",
+    "skills": ["React", "Express", "Node","Mongodb","socket.io"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

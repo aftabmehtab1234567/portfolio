@@ -30,6 +30,22 @@
   {
     "title": "Netlify",
     "imageSrc": "skills/image.png"
+  },
+  {
+    "title": "Jira",
+    "imageSrc": "skills/Jira-Emblem.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/th.png"
+  },
+  {
+    "title": "Salenium",
+    "imageSrc": "skills/sle.png"
+  },
+  {
+    "title": "Cucumber",
+    "imageSrc": "skills/hqdefault.png"
   }
   
 ]
